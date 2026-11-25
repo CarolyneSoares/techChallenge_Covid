@@ -315,7 +315,7 @@ Os aprendizados reforçam a importância do planejamento contínuo, da integraç
 
 - [Carolyne Rafaella Soares Costa](https://github.com/CarolyneSoares)
 - Natalia Alexandra Leite Trippo
-- [Natane Cezario Barbosa] (https://github.com/NataneCezario)
+- [Natane Cezario Barbosa](https://github.com/NataneCezario)
 - Tainara Covas Nogueira
 
 ## 🎓 Contexto acadêmico
