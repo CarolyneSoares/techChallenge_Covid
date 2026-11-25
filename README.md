@@ -23,7 +23,7 @@ O desafio consiste em atuar como uma equipe de especialistas em Data Analytics c
 
 A questão central do projeto é:
 
-> Como utilizar os dados da pandemia de COVID-19 para auxiliar hospitais na preparação e na tomada de decisões diante de novos surtos da doença?
+> Como utilizar os dados da pandemia de COVID-19 para auxiliar hospitais na preparação e na tomada de decisões diante de novos surtos da doença? 
 
 ## 🎯 Objetivos
 
